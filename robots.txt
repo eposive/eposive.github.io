@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+
+Sitemap: https://e-sales.co.uk/sitemap-index.xml
